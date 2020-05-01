@@ -21,11 +21,11 @@ We use publicly available data from:
 - CPS files:
 	- 2019 ASEC is downloaded from [IPUMS](https://cps.ipums.org/cps/) and can be found here `clean_CPS2019/input/asec19_raw.dta`
 	- The basic monthly CPS is downloaded from [IPUMS](https://cps.ipums.org/cps/)
-		- Sample is February and March from 2010 - 2010
+		- Sample is February and March from 2010 - 2020
 		- We keep a subset of variables (see end of this note) 
 		- The replication code then loads in the files `unemployment_figs/input/basic_monthly_CPS_raw_YYYY.dta` 
 - PSID files:
-	- Downloaded FAM2017ER from [PSID](https://simba.isr.umich.edu/Zips/ZipMain.aspx)
+	- We downloaded FAM2017ER from [PSID](https://simba.isr.umich.edu/Zips/ZipMain.aspx)
 	- We keep a subset of variables (see end of this note) 
 	- The replication code then loads in the file `clean_PSID/input/htm_psid2017.dta`
 - The [Safegraph](https://docs.safegraph.com/docs/social-distancing-metrics) data we use in the paper is not publicly available.
