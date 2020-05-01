@@ -1,0 +1,16 @@
+digraph G {
+clean_CPS2019->main_figs
+clean_OES->make_LWFH_PP_measures
+clean_OES->unemployment_figs
+clean_ONET->make_LWFH_PP_measures
+clean_PSID->main_figs
+download_data->atus_figs
+download_data->clean_OES
+download_data->clean_ONET
+make_LWFH_PP_measures->atus_figs
+make_LWFH_PP_measures->main_figs
+make_LWFH_PP_measures->unemployment_figs
+xwalks->clean_ONET
+xwalks->make_LWFH_PP_measures
+xwalks->unemployment_figs
+}

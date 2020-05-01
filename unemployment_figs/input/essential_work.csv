@@ -1,0 +1,122 @@
+dhs_cat,naics,industry_name
+Food and Agriculture,115100,Support Activities for Crop Production
+Food and Agriculture,115200,Support Activities for Animal Production
+Energy,211100,Oil and Gas Extraction
+Energy,212100,Coal Mining
+Energy,213100,Support Activities for Mining
+Energy,221100,"Electric Power Generation, Transmission and Distribution"
+Energy,221200,Natural Gas Distribution
+Water and Wastewater,221300,"Water, Sewage and Other Systems"
+Public Works,237100,Utility System Construction
+Public Works,237300,"Highway, Street, and Bridge Construction"
+Public Works,237900,Other Heavy and Civil Engineering Construction
+Food and Agriculture,311100,Animal Food Manufacturing
+Food and Agriculture,311200,Grain and Oilseed Milling
+Food and Agriculture,311300,Sugar and Confectionery Product Manufacturing
+Food and Agriculture,311400,Fruit and Vegetable Preserving and Specialty Food Manufacturing
+Food and Agriculture,311500,Dairy Product Manufacturing
+Food and Agriculture,311600,Animal Slaughtering and Processing
+Food and Agriculture,311700,Seafood Product Preparation and Packaging
+Food and Agriculture,311800,Bakeries and Tortilla Manufacturing
+Food and Agriculture,311900,Other Food Manufacturing
+Food and Agriculture,312100,Beverage Manufacturing
+Chemical,324100,Petroleum and Coal Products Manufacturing
+Chemical,3250A1,"Chemical Manufacturing (3251, 3252, 3253, and 3259 only)"
+Chemical,3250A2,Chemical Manufacturing (3255 and 3256 only)
+Chemical,325400,Pharmaceutical and Medicine Manufacturing
+Critical Manufacturing,326100,Plastics Product Manufacturing
+Critical Manufacturing,326200,Rubber Product Manufacturing
+Critical Manufacturing,327000,Nonmetallic Mineral Product Manufacturing
+Critical Manufacturing,331100,Iron and Steel Mills and Ferroalloy Manufacturing
+Critical Manufacturing,331200,Steel Product Manufacturing from Purchased Steel
+Critical Manufacturing,331300,Alumina and Aluminum Production and Processing
+Critical Manufacturing,331400,Nonferrous Metal (except Aluminum) Production and Processing
+Critical Manufacturing,331500,Foundries
+Critical Manufacturing,3320A1,"Fabricated Metal Product Manufacturing (3321, 3322, 3325, 3326, and 3329 only)"
+Critical Manufacturing,3320A2,Fabricated Metal Product Manufacturing (3323 and 3324 only)
+Critical Manufacturing,3330A1,"Machinery Manufacturing (3331, 3332, 3334, and 3339 only)"
+Critical Manufacturing,332700,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing"
+Critical Manufacturing,332800,"Coating, Engraving, Heat Treating, and Allied Activities"
+Critical Manufacturing,333300,Commercial and Service Industry Machinery Manufacturing
+Critical Manufacturing,333500,Metalworking Machinery Manufacturing
+Critical Manufacturing,333600,"Engine, Turbine, and Power Transmission Equipment Manufacturing"
+Critical Manufacturing,336100,Motor Vehicle Manufacturing
+Critical Manufacturing,336200,Motor Vehicle Body and Trailer Manufacturing
+Critical Manufacturing,336300,Motor Vehicle Parts Manufacturing
+Critical Manufacturing,336400,Aerospace Product and Parts Manufacturing
+Critical Manufacturing,336500,Railroad Rolling Stock Manufacturing
+Critical Manufacturing,336600,Ship and Boat Building
+Critical Manufacturing,336900,Other Transportation Equipment Manufacturing
+Healthcare/Public Health,339100,Medical Equipment and Supplies Manufacturing
+Transportation and Logistics,423100,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers
+Critical Manufacturing,423400,Professional and Commercial Equipment and Supplies Merchant Wholesalers
+Critical Manufacturing,423800,"Machinery, Equipment, and Supplies Merchant Wholesalers"
+Transportation and Logistics,4240A1,"Merchant Wholesalers, Nondurable Goods (4244 and 4248 only)"
+Transportation and Logistics,4240A2,"Merchant Wholesalers, Nondurable Goods (4242 and 4246 only)"
+Food and Agriculture,424500,Farm Product Raw Material Merchant Wholesalers
+Food and Agriculture,4450A1,Food and Beverage Stores (4451 and 4452 only)
+Healthcare/Public Health,446100,Health and Personal Care Stores
+Energy,447100,Gasoline Stations
+Transportation and Logistics,481100,Scheduled Air Transportation
+Transportation and Logistics,481200,Nonscheduled Air Transportation
+Transportation and Logistics,482100,Rail Transportation
+Transportation and Logistics,483100,"Deep Sea, Coastal, and Great Lakes Water Transportation"
+Transportation and Logistics,483200,Inland Water Transportation
+Transportation and Logistics,484000,Truck Transportation
+Transportation and Logistics,485100,Urban Transit Systems
+Transportation and Logistics,485200,Interurban and Rural Bus Transportation
+Transportation and Logistics,485300,Taxi and Limousine Service
+Transportation and Logistics,485400,School and Employee Bus Transportation
+Transportation and Logistics,485500,Charter Bus Industry
+Transportation and Logistics,485900,Other Transit and Ground Passenger Transportation
+Transportation and Logistics,486100,Pipeline Transportation of Crude Oil
+Transportation and Logistics,486200,Pipeline Transportation of Natural Gas
+Transportation and Logistics,486900,Other Pipeline Transportation
+Transportation and Logistics,488100,Support Activities for Air Transportation
+Transportation and Logistics,488200,Support Activities for Rail Transportation
+Transportation and Logistics,488300,Support Activities for Water Transportation
+Transportation and Logistics,488400,Support Activities for Road Transportation
+Transportation and Logistics,488500,Freight Transportation Arrangement
+Transportation and Logistics,488900,Other Support Activities for Transportation
+Transportation and Logistics,491100,Postal Service (federal government)
+Transportation and Logistics,492100,Couriers and Express Delivery Services
+Transportation and Logistics,492200,Local Messengers and Local Delivery
+Transportation and Logistics,493100,Warehousing and Storage
+Communications and Information Technology,515100,Radio and Television Broadcasting
+Communications and Information Technology,515200,Cable and Other Subscription Programming
+Communications and Information Technology,517000,Telecommunications
+Communications and Information Technology,518200,"Data Processing, Hosting, and Related Services"
+Communications and Information Technology,519100,Other Information Services
+Financial Services,5220A1,Credit Intermediation and Related Activities (5221 And 5223 only)
+Financial Services,521100,Monetary Authorities-Central Bank
+Financial Services,522200,Nondepository Credit Intermediation
+Financial Services,523000,"Securities, Commodity Contracts, and Other Financial Investments and Related Activities"
+Financial Services,524100,Insurance Carriers
+Financial Services,524200,"Agencies, Brokerages, and Other Insurance Related Activities"
+Financial Services,525100,Insurance and Employee Benefit Funds
+Financial Services,525900,Other Investment Pools and Funds
+Defense Industrial Base,561600,Investigation and Security Services
+Public Works,562100,Waste Collection
+Public Works,562200,Waste Treatment and Disposal
+Hazardous Materials,562900,Remediation and Other Waste Management Services
+Healthcare/Public Health,621100,Offices of Physicians
+Healthcare/Public Health,621200,Offices of Dentists
+Healthcare/Public Health,621300,Offices of Other Health Practitioners
+Healthcare/Public Health,621400,Outpatient Care Centers
+Healthcare/Public Health,621500,Medical and Diagnostic Laboratories
+Healthcare/Public Health,621600,Home Health Care Services
+Healthcare/Public Health,621900,Other Ambulatory Health Care Services
+Healthcare/Public Health,622100,General Medical and Surgical Hospitals
+Healthcare/Public Health,622200,Psychiatric and Substance Abuse Hospitals
+Healthcare/Public Health,622300,Specialty (except Psychiatric and Substance Abuse) Hospitals
+Healthcare/Public Health,623100,Nursing Care Facilities (Skilled Nursing Facilities)
+Healthcare/Public Health,623200,"Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities"
+Healthcare/Public Health,623300,Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly
+Healthcare/Public Health,623900,Other Residential Care Facilities
+Healthcare/Public Health,624100,Individual and Family Services
+Healthcare/Public Health,624200,"Community Food and Housing, and Emergency and Other Relief Services"
+Healthcare/Public Health,624300,Vocational Rehabilitation Services
+Transportation and Logistics,811100,Automotive Repair and Maintenance
+Public Works,811400,Personal and Household Goods Repair and Maintenance
+Government Operations and Essential Functions,999200,"State Government, excluding schools and hospitals (OES Designation)"
+Government Operations and Essential Functions,999300,"Local Government, excluding schools and hospitals (OES Designation)"

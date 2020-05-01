@@ -1,0 +1,512 @@
+occ,occtitle,low_wfh,low_wfh_binary,pp,high_pp_binary
+10,Chief executives,0,HWFH,.35055003,LPP
+20,General and operations managers,.083333336,HWFH,.46751621,LPP
+40,Advertising and promotions managers,0,HWFH,.35084838,LPP
+50,Marketing and sales managers,0,HWFH,.37544966,LPP
+60,Public relations and fundraising managers,.083333336,HWFH,.25512096,LPP
+100,Administrative services managers,0,HWFH,.34486541,LPP
+110,Computer and information systems managers,0,HWFH,.29401028,LPP
+120,Financial managers,0,HWFH,.3250151,LPP
+135,Compensation and benefits managers,0,HWFH,.19229983,LPP
+136,Human resources managers,0,HWFH,.29101872,LPP
+137,Training and development managers,0,HWFH,.35982281,LPP
+140,Industrial production managers,.25,LWFH,.38668337,LPP
+150,Purchasing managers,0,HWFH,.29101872,LPP
+160,"Transportation, storage, and distribution managers",0,HWFH,.3662855,LPP
+205,"Farmers, ranchers, and other agricultural managers",.33333334,LWFH,.47522268,LPP
+220,Construction managers,.16666667,HWFH,.40469509,LPP
+230,Education administrators,.083333336,HWFH,.41583186,LPP
+300,Architectural and engineering managers,0,HWFH,.3334156,LPP
+310,Food service managers,.33333334,LWFH,.73674965,HPP
+325,Funeral service managers,.16666667,LWFH,.5213629,LPP
+330,Gaming managers,.16666667,LWFH,.70982629,HPP
+340,Lodging managers,.083333336,HWFH,.39572063,LPP
+350,Medical and health services managers,0,HWFH,.34486541,LPP
+360,Natural sciences managers,0,HWFH,.31903332,LPP
+400,Postmasters and mail superintendents,0,HWFH,.47349918,LPP
+410,"Property, real estate, and community association managers",.16666667,LWFH,.41666099,LPP
+420,Social and community service managers,.083333336,HWFH,.30298471,LPP
+425,Emergency management directors,.083333336,HWFH,.42862692,LPP
+430,"Managers, all other",0,HWFH,.39129451,LPP
+500,"Agents and business managers of artists, performers, and athletes",0,HWFH,.32093358,LPP
+530,"Unemployed, with no work experience in the last 5 years or earlier or never worked",0,HWFH,.39262897,LPP
+540,"Claims adjusters, appraisers, examiners, and investigators",.083333336,HWFH,.37763548,LPP
+565,Compliance officers,.083333336,HWFH,.51933372,LPP
+600,Cost estimators,0,HWFH,.33589098,LPP
+630,Human resources workers,0,HWFH,.31383336,LPP
+640,"Compensation, benefits, and job analysis specialists",0,HWFH,.19229983,LPP
+650,Training and development specialists,0,HWFH,.51238841,LPP
+700,Logisticians,0,HWFH,.43755358,LPP
+710,Management analysts,0,HWFH,.29999322,LPP
+725,"Meeting, convention, and event planners",.083333336,HWFH,.66495401,HPP
+726,Fundraisers,.083333336,HWFH,.27306983,LPP
+735,Market research analysts and marketing specialists,0,HWFH,.23418061,LPP
+740,"Business operations specialists, all other",0,HWFH,.41625887,LPP
+800,Accountants and auditors,0,HWFH,.32452959,LPP
+810,Appraisers and assessors of real estate,.083333336,HWFH,.34689826,LPP
+820,Budget analysts,0,HWFH,.32093358,LPP
+830,Credit analysts,0,HWFH,.39572063,LPP
+840,Financial analysts,0,HWFH,.36879733,LPP
+850,Personal financial advisors,.083333336,HWFH,.24315505,LPP
+860,Insurance underwriters,0,HWFH,.42563543,LPP
+900,Financial examiners,0,HWFH,.49144804,LPP
+910,Credit counselors and loan officers,.083333336,HWFH,.31244934,LPP
+930,"Tax examiners and collectors, and revenue agents",.083333336,HWFH,.48247361,LPP
+940,Tax preparers,.083333336,HWFH,.46452475,LPP
+950,"Financial specialists, all other",0,HWFH,.36994335,LPP
+1005,Computer and information research scientists,0,HWFH,.1952913,LPP
+1006,Computer systems analysts,0,HWFH,.43851343,LPP
+1007,Information security analysts,0,HWFH,.42264396,LPP
+1010,Computer programmers,0,HWFH,.27306983,LPP
+1020,"Software developers, applications and systems software",0,HWFH,.38224354,LPP
+1030,Web developers,0,HWFH,.32990801,LPP
+1050,Computer support specialists,0,HWFH,.54584318,LPP
+1060,Database administrators,0,HWFH,.42264396,LPP
+1105,Network and computer systems administrators,.083333336,HWFH,.44956735,LPP
+1106,Computer network architects ,0,HWFH,.3556926,LPP
+1107,"Computer occupations, all other",0,HWFH,.35263786,LPP
+1200,Actuaries,0,HWFH,.22819765,LPP
+1210,Mathematicians,0,HWFH,.27905279,LPP
+1220,Operations research analysts,0,HWFH,.29999322,LPP
+1230,Statisticians,0,HWFH,.26668406,LPP
+1300,"Architects, except naval",0,HWFH,.42625743,LPP
+1310,"Surveyors, cartographers, and photogrammetrists",.16666667,HWFH,.36553583,LPP
+1320,Aerospace engineers,0,HWFH,.4017036,LPP
+1330,Agricultural engineers,.083333336,HWFH,.34785691,LPP
+1340,Biomedical engineers,0,HWFH,.39572063,LPP
+1350,Chemical engineers,.16666667,LWFH,.34785691,LPP
+1360,Civil engineers,0,HWFH,.36256582,LPP
+1400,Computer hardware engineers,0,HWFH,.33589098,LPP
+1410,Electrical and electronics engineers,0,HWFH,.38372478,LPP
+1420,Environmental engineers,.083333336,HWFH,.32685578,LPP
+1430,"Industrial engineers, including health and safety",0,HWFH,.43174478,LPP
+1440,Marine engineers and naval architects,.083333336,HWFH,.48482949,LPP
+1450,Materials engineers,.16666667,HWFH,.34187394,LPP
+1460,Mechanical engineers,.083333336,HWFH,.42502505,LPP
+1500,"Mining and geological engineers, including mining safety engineers",.083333336,HWFH,.37777176,LPP
+1510,Nuclear engineers,.083333336,HWFH,.35982281,LPP
+1520,Petroleum engineers,0,HWFH,.16537651,LPP
+1530,"Engineers, all other",.083333336,HWFH,.39576259,LPP
+1540,Drafters,0,HWFH,.38522112,LPP
+1550,"Engineering technicians, except drafters",.16666667,HWFH,.46864104,LPP
+1560,Surveying and mapping technicians,0,HWFH,.44329324,LPP
+1600,Agricultural and food scientists,0,HWFH,.35753295,LPP
+1610,Biological scientists,0,HWFH,.34714195,LPP
+1640,Conservation scientists and foresters,.33333334,LWFH,.42088684,LPP
+1650,Medical scientists,0,HWFH,.31446028,LPP
+1660,"Life scientists, all other",.083333336,HWFH,.41666099,LPP
+1700,Astronomers and physicists,0,HWFH,.34288722,LPP
+1710,Atmospheric and space scientists,0,HWFH,.35982281,LPP
+1720,Chemists and materials scientists,.25,LWFH,.47220069,LPP
+1740,Environmental scientists and geoscientists,0,HWFH,.29739803,LPP
+1760,"Physical scientists, all other",0,HWFH,.28204429,LPP
+1800,Economists,0,HWFH,.16900668,LPP
+1815,Survey researchers,0,HWFH,.27905279,LPP
+1820,Psychologists,0,HWFH,.48524064,LPP
+1830,Sociologists,0,HWFH,.28204429,LPP
+1840,Urban and regional planners,.083333336,HWFH,.44657588,LPP
+1860,Miscellaneous social scientists and related workers,.083333336,HWFH,.32807702,LPP
+1900,Agricultural and food science technicians,.41666666,LWFH,.47945169,LPP
+1910,Biological technicians,.16666667,HWFH,.41067803,LPP
+1920,Chemical technicians,.25,LWFH,.50341398,LPP
+1930,Geological and petroleum technicians,0,HWFH,.33153126,LPP
+1940,Nuclear technicians,.33333334,LWFH,.65649945,HPP
+1950,Social science research assistants,0,HWFH,.3631098,LPP
+1965,"Miscellaneous life, physical, and social science technicians",.16666667,HWFH,.4988566,LPP
+2000,Counselors,.083333336,HWFH,.55982012,LPP
+2010,Social workers,.083333336,HWFH,.5264197,LPP
+2015,Probation officers and correctional treatment specialists,.16666667,HWFH,.49144804,LPP
+2016,Social and human service assistants,.083333336,HWFH,.75170702,HPP
+2025,"Miscellaneous community and social service specialists, including health educators and community health workers",.083333336,HWFH,.64089674,HPP
+2040,Clergy,.083333336,HWFH,.46153325,LPP
+2050,"Directors, religious activities and education",.083333336,HWFH,.38076323,LPP
+2100,Lawyers,0,HWFH,.21623166,LPP
+2105,Judicial law clerks,0,HWFH,.19828278,LPP
+2110,"Judges, magistrates, and other judicial workers",.083333336,HWFH,.46878254,LPP
+2145,Paralegals and legal assistants,0,HWFH,.27606133,LPP
+2160,Miscellaneous legal support workers,0,HWFH,.4309611,LPP
+2200,Postsecondary teachers,0,HWFH,.45600784,LPP
+2300,Preschool and kindergarten teachers,0,HWFH,.74492633,HPP
+2310,Elementary and middle school teachers,0,HWFH,.72141701,HPP
+2320,Secondary school teachers,0,HWFH,.64398265,HPP
+2330,Special education teachers,0,HWFH,.76878417,HPP
+2340,Other teachers and instructors,0,HWFH,.76045042,HPP
+2400,"Archivists, curators, and museum technicians",.083333336,HWFH,.38481659,LPP
+2430,Librarians,.083333336,HWFH,.42862692,LPP
+2440,Library technicians,.083333336,HWFH,.54230326,LPP
+2540,Teacher assistants,0,HWFH,.85940039,HPP
+2550,"Other education, training, and library workers",0,HWFH,.4191682,LPP
+2600,Artists and related workers,0,HWFH,.38913238,LPP
+2630,Designers,0,HWFH,.3975696,LPP
+2700,Actors,.16666667,LWFH,.94316196,HPP
+2710,Producers and directors,.083333336,HWFH,.47036314,LPP
+2720,"Athletes, coaches, umpires, and related workers",.083333336,HWFH,.67706764,HPP
+2740,Dancers and choreographers,.16666667,LWFH,.9853214,HPP
+2750,"Musicians, singers, and related workers",.083333336,HWFH,.73771566,HPP
+2800,Announcers,.083333336,HWFH,.49806908,LPP
+2810,"News analysts, reporters and correspondents",.083333336,HWFH,.47573984,LPP
+2825,Public relations specialists,.083333336,HWFH,.35383984,LPP
+2830,Editors,0,HWFH,.44657588,LPP
+2840,Technical writers,0,HWFH,.30896768,LPP
+2850,Writers and authors,0,HWFH,.17646451,LPP
+2860,Miscellaneous media and communication workers,.083333336,HWFH,.59614998,HPP
+2900,Broadcast and sound engineering technicians and radio operators,.25,LWFH,.51150995,LPP
+2910,Photographers,.16666667,HWFH,.62008184,HPP
+2920,"Television, video, and motion picture camera operators and editors",0,HWFH,.48663884,LPP
+3000,Chiropractors,.16666667,LWFH,.95512789,HPP
+3010,Dentists,.41666666,LWFH,.98995906,HPP
+3030,Dietitians and nutritionists,.16666667,LWFH,.63503921,HPP
+3040,Optometrists,.16666667,LWFH,.88632375,HPP
+3050,Pharmacists,.16666667,HWFH,.67093706,HPP
+3060,Physicians and surgeons,.16666667,HWFH,.80705822,HPP
+3110,Physician assistants,.25,LWFH,.85341746,HPP
+3120,Podiatrists,.25,LWFH,.93717903,HPP
+3140,Audiologists,.16666667,HWFH,.60512441,HPP
+3150,Occupational therapists,.083333336,HWFH,.88631082,HPP
+3160,Physical therapists,.33333334,LWFH,1,HPP
+3200,Radiation therapists,.58333331,LWFH,.9790597,HPP
+3210,Recreational therapists,.16666667,LWFH,.81051224,HPP
+3220,Respiratory therapists,.66666669,LWFH,.92222154,HPP
+3230,Speech-language pathologists,0,HWFH,.75469851,HPP
+3235,Exercise physiologists,.16666667,LWFH,.91623855,HPP
+3250,Veterinarians,.33333334,LWFH,.88931519,HPP
+3255,Registered nurses,.25,LWFH,.86215687,HPP
+3256,Nurse anesthetists,.58333331,LWFH,.84743446,HPP
+3257,Nurse midwives,.25,LWFH,.9700852,HPP
+3258,Nurse practitioners,.25,LWFH,.82649404,HPP
+3260,"Health diagnosing and treating practitioners, all other",.16666667,HWFH,.8825925,HPP
+3300,"Unemployed, with no work experience in the last 5 years or earlier or never worked",.25,LWFH,.55751991,LPP
+3310,Dental hygienists,.58333331,LWFH,1,HPP
+3320,Diagnostic related technologists and technicians,.58333331,LWFH,.88305521,HPP
+3400,Emergency medical technicians and paramedics,.66666669,LWFH,.96111083,HPP
+3420,Health practitioner support technologists and technicians,.33333334,LWFH,.83665907,HPP
+3500,Licensed practical and licensed vocational nurses,.58333331,LWFH,.88333225,HPP
+3510,Medical records and health information technicians,0,HWFH,.40768656,LPP
+3520,"Opticians, dispensing",.083333336,HWFH,.80256224,HPP
+3535,Miscellaneous health technologists and technicians,.41666666,LWFH,.92746216,HPP
+3540,Other healthcare practitioners and technical occupations,.16666667,LWFH,.68641067,HPP
+3600,"Nursing, psychiatric, and home health aides",.58333331,LWFH,.86598605,HPP
+3610,Occupational therapy assistants and aides,.33333334,LWFH,.79808813,HPP
+3620,Physical therapist assistants and aides,.33333334,LWFH,.93519223,HPP
+3630,Massage therapists,.16666667,LWFH,.86837488,HPP
+3640,Dental assistants,.5,LWFH,.98504269,HPP
+3645,Medical assistants,.33333334,LWFH,.85640901,HPP
+3646,Medical transcriptionists,0,HWFH,.31195915,LPP
+3647,Pharmacy aides,.25,LWFH,.78162193,HPP
+3648,Veterinary assistants and laboratory animal caretakers,.41666666,LWFH,.85940039,HPP
+3649,Phlebotomists,.5,LWFH,.71880078,HPP
+3655,"Healthcare support workers, all other, including medical equipment preparers",.5,LWFH,.76071757,HPP
+3700,First-line supervisors of correctional officers,.33333334,LWFH,.64999664,HPP
+3710,First-line supervisors of police and detectives,.5,LWFH,.72478372,HPP
+3720,First-line supervisors of fire fighting and prevention workers,.83333331,LWFH,.70218641,HPP
+3740,Firefighters,.91666669,LWFH,.82723522,HPP
+3750,Fire inspectors,.5,LWFH,.56659257,LPP
+3800,"Bailiffs, correctional officers, and jailers",.25,LWFH,.77810913,HPP
+3820,Detectives and criminal investigators,.16666667,HWFH,.62087369,HPP
+3830,Fish and game wardens,.5,LWFH,.71281785,HPP
+3840,Parking enforcement workers,.41666666,LWFH,.24913801,LPP
+3850,Police and sheriff's patrol officers,.66666669,LWFH,.71427965,HPP
+3860,Transit and railroad police,.5,LWFH,.74572402,HPP
+3900,Animal control workers,.75,LWFH,.45255882,LPP
+3910,Private detectives and investigators,0,HWFH,.41965249,LPP
+3930,Security guards and gaming surveillance officers,.33333334,LWFH,.62111586,HPP
+3940,Crossing guards,.33333334,LWFH,.73974109,HPP
+3945,Transportation security screeners,.33333334,LWFH,.83546853,HPP
+3955,"Lifeguards and other recreational, and all other protective service workers",.16666667,LWFH,.5713011,LPP
+4000,Chefs and head cooks,.33333334,LWFH,.76965588,HPP
+4010,First-line supervisors of food preparation and serving workers,.41666666,LWFH,.94615334,HPP
+4020,Cooks,.33333334,LWFH,.69893968,HPP
+4030,Food preparation workers,.41666666,LWFH,.63503921,HPP
+4040,Bartenders,.41666666,LWFH,.74572402,HPP
+4050,"Combined food preparation and serving workers, including fast food",.33333334,LWFH,.69486886,HPP
+4060,"Counter attendants, cafeteria, food concession, and coffee shop",.25,LWFH,.69054896,HPP
+4110,Waiters and waitresses,.25,LWFH,.73674965,HPP
+4120,"Food servers, nonrestaurant",.41666666,LWFH,.67093706,HPP
+4130,Dining room and cafeteria attendants and bartender helpers,.25,LWFH,.78760487,HPP
+4140,Dishwashers,.41666666,LWFH,.55726069,LPP
+4150,"Hosts and hostesses, restaurant, lounge, and coffee shop",.25,LWFH,.75469851,HPP
+4200,First-line supervisors of housekeeping and janitorial workers,.33333334,LWFH,.41666099,LPP
+4210,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",.5,LWFH,.66495401,HPP
+4220,Janitors and building cleaners,.25,LWFH,.38375473,LPP
+4230,Maids and housekeeping cleaners,.5,LWFH,.30597618,LPP
+4240,Pest control workers,.83333331,LWFH,.36879733,LPP
+4250,Grounds maintenance workers,.75,LWFH,.69001305,HPP
+4300,"Unemployed, with no work experience in the last 5 years or earlier or never worked",.16666667,HWFH,.79268819,HPP
+4320,First-line supervisors of personal service workers,.083333336,HWFH,.82292581,HPP
+4340,Animal trainers,.41666666,LWFH,.54828626,LPP
+4350,Nonfarm animal caretakers,.58333331,LWFH,.59914148,HPP
+4400,Gaming services workers,.16666667,HWFH,.85287011,HPP
+4410,Motion picture projectionists,.33333334,LWFH,.24614653,LPP
+4420,"Ushers, lobby attendants, and ticket takers",.16666667,LWFH,.78162193,HPP
+4430,Miscellaneous entertainment attendants and related workers,.5,LWFH,.79197812,HPP
+4460,Embalmers and funeral attendants,.41666666,LWFH,.73616213,HPP
+4465,"Morticians, undertakers, and funeral directors",.41666666,LWFH,.66794556,HPP
+4500,Barbers,.25,LWFH,.94017041,HPP
+4510,"Hairdressers, hairstylists, and cosmetologists",.16666667,LWFH,.91025561,HPP
+4520,Miscellaneous personal appearance workers,.16666667,LWFH,.90930331,HPP
+4530,"Baggage porters, bellhops, and concierges",.25,LWFH,.66968852,HPP
+4540,"Unemployed, with no work experience in the last 5 years or earlier or never worked",.083333336,HWFH,.59510481,HPP
+4600,Childcare workers,0,HWFH,.73844558,HPP
+4610,Personal care aides,.33333334,LWFH,.83247703,HPP
+4620,Recreation and fitness workers,.16666667,HWFH,.72607952,HPP
+4640,Residential advisors,.083333336,HWFH,.54230326,LPP
+4700,First-line supervisors of retail sales workers,.083333336,HWFH,.59315848,HPP
+4710,First-line supervisors of non-retail sales workers,0,HWFH,.32392508,LPP
+4720,Cashiers,.16666667,LWFH,.70050961,HPP
+4740,Counter and rental clerks,.083333336,HWFH,.61409885,HPP
+4750,Parts salespersons,.25,LWFH,.61110741,HPP
+4760,Retail salespersons,.16666667,HWFH,.62606478,HPP
+4800,Advertising sales agents,.083333336,HWFH,.46452475,LPP
+4810,Insurance sales agents,0,HWFH,.53632033,LPP
+4820,"Securities, commodities, and financial services sales agents",0,HWFH,.4263528,LPP
+4830,Travel agents,.083333336,HWFH,.46153325,LPP
+4840,"Sales representatives, services, all other",0,HWFH,.43161839,LPP
+4850,"Sales representatives, wholesale and manufacturing",0,HWFH,.41119769,LPP
+4900,"Models, demonstrators, and product promoters",.083333336,HWFH,.60946804,HPP
+4920,Real estate brokers and sales agents,.083333336,HWFH,.6143623,HPP
+4930,Sales engineers,0,HWFH,.23118913,LPP
+4940,Telemarketers,.083333336,HWFH,.72478372,HPP
+4950,"Door-to-door sales workers, news and street vendors, and related workers",.083333336,HWFH,.60512441,HPP
+5000,First-line supervisors of office and administrative support workers,0,HWFH,.3717888,LPP
+5010,"Switchboard operators, including answering service",.083333336,HWFH,.56324363,LPP
+5020,Telephone operators,.083333336,HWFH,.61709034,HPP
+5100,Bill and account collectors,0,HWFH,.34187394,LPP
+5110,Billing and posting clerks ,.083333336,HWFH,.44850314,LPP
+5120,"Bookkeeping, accounting, and auditing clerks",0,HWFH,.33589098,LPP
+5130,Gaming cage workers,.16666667,LWFH,.72179222,HPP
+5140,Payroll and timekeeping clerks,0,HWFH,.24913801,LPP
+5150,Procurement clerks,0,HWFH,.41366953,LPP
+5160,Tellers,.083333336,HWFH,.70982629,HPP
+5200,Brokerage clerks,0,HWFH,.61709034,HPP
+5210,Correspondence clerks,0,HWFH,.32093358,LPP
+5220,"Court, municipal, and license clerks",.083333336,HWFH,.52777141,LPP
+5230,"Credit authorizers, checkers, and clerks",0,HWFH,.54631495,LPP
+5240,Customer service representatives,.083333336,HWFH,.58557391,HPP
+5250,"Eligibility interviewers, government programs",.083333336,HWFH,.47349918,LPP
+5260,File clerks,0,HWFH,.36580577,LPP
+5300,"Hotel, motel, and resort desk clerks",.083333336,HWFH,.56623513,LPP
+5310,"Interviewers, except eligibility and loan",0,HWFH,.68290293,HPP
+5320,"Library assistants, clerical",.16666667,HWFH,.6739285,HPP
+5330,Loan interviewers and clerks,.083333336,HWFH,.33888248,LPP
+5340,New accounts clerks,.083333336,HWFH,.51238841,LPP
+5350,Order clerks,0,HWFH,.47050771,LPP
+5360,"Human resources assistants, except payroll and timekeeping",0,HWFH,.44358438,LPP
+5400,Receptionists and information clerks,.083333336,HWFH,.42563543,LPP
+5410,Reservation and transportation ticket agents and travel clerks,.33333334,LWFH,.77563882,HPP
+5500,Cargo and freight agents,0,HWFH,.54145873,LPP
+5510,Couriers and messengers,.33333334,LWFH,.34785691,LPP
+5520,Dispatchers,.083333336,HWFH,.50813359,LPP
+5530,"Meter readers, utilities",.66666669,LWFH,.24315505,LPP
+5540,Postal service clerks,.16666667,HWFH,.78760487,HPP
+5550,Postal service mail carriers,.41666666,LWFH,.49144804,LPP
+5560,"Postal service mail sorters, processors, and processing machine operators",.41666666,LWFH,.55426919,LPP
+5600,"Production, planning, and expediting clerks",.16666667,LWFH,.43161839,LPP
+5610,"Shipping, receiving, and traffic clerks",.25,LWFH,.35084838,LPP
+5620,Stock clerks and order fillers,.25,LWFH,.62098157,HPP
+5630,"Weighers, measurers, checkers, and samplers, recordkeeping",.33333334,LWFH,.50341398,LPP
+5700,Secretaries and administrative assistants,0,HWFH,.36299247,LPP
+5800,Computer operators,0,HWFH,.30298471,LPP
+5810,Data entry keyers,0,HWFH,.48247361,LPP
+5820,Word processors and typists,0,HWFH,.36281431,LPP
+5830,Desktop publishers,.083333336,HWFH,.34486541,LPP
+5840,Insurance claims and policy processing clerks,0,HWFH,.38618353,LPP
+5850,"Mail clerks and mail machine operators, except postal service",.25,LWFH,.6739285,HPP
+5860,"Office clerks, general",0,HWFH,.57520956,LPP
+5900,"Office machine operators, except computer",0,HWFH,.47050771,LPP
+5910,Proofreaders and copy markers,0,HWFH,.44059283,LPP
+5920,Statistical assistants,0,HWFH,.40992394,LPP
+6005,"First-line supervisors of farming, fishing, and forestry workers",.58333331,LWFH,.34235916,LPP
+6010,Agricultural inspectors,.25,LWFH,.61409885,HPP
+6020,Animal breeders,.33333334,LWFH,.1952913,LPP
+6040,"Graders and sorters, agricultural products",.33333334,LWFH,.81153673,HPP
+6050,Miscellaneous agricultural workers ,.25,LWFH,.22948645,LPP
+6120,Forest and conservation workers,.58333331,LWFH,.60213292,HPP
+6130,Logging workers,.66666669,LWFH,-6.6424251e-17,LPP
+6200,First-line supervisors of construction trades and extraction workers,.33333334,LWFH,.68288469,HPP
+6210,Boilermakers,1,LWFH,.63204771,HPP
+6220,"Brickmasons, blockmasons, and stonemasons",.66666669,LWFH,.79030001,HPP
+6230,Carpenters,.66666669,LWFH,.76510936,HPP
+6240,"Carpet, floor, and tile installers and finishers",.41666666,LWFH,.5665127,LPP
+6250,"Cement masons, concrete finishers, and terrazzo workers",.75,LWFH,.8263334,HPP
+6260,Construction laborers,.66666669,LWFH,.67692,HPP
+6300,"Paving, surfacing, and tamping equipment operators",.83333331,LWFH,.45854178,LPP
+6310,Pile-driver operators,.75,LWFH,.68290293,HPP
+6320,Operating engineers and other construction equipment operators,.66666669,LWFH,.48845658,LPP
+6330,"Drywall installers, ceiling tile installers, and tapers",.41666666,LWFH,.51985252,LPP
+6355,Electricians,.58333331,LWFH,.70683485,HPP
+6360,Glaziers,.83333331,LWFH,.62606478,HPP
+6400,Insulation workers,.66666669,LWFH,.50863063,LPP
+6420,"Painters, construction and maintenance",.41666666,LWFH,.56922662,LPP
+6430,Paperhangers,.5,LWFH,.32990801,LPP
+6440,"Pipelayers, plumbers, pipefitters, and steamfitters",.83333331,LWFH,.6349054,HPP
+6460,Plasterers and stucco masons,.58333331,LWFH,.53332883,LPP
+6500,Reinforcing iron and rebar workers,.75,LWFH,.65597957,HPP
+6515,Roofers,.75,LWFH,.73076671,HPP
+6520,Sheet metal workers,.75,LWFH,.60811591,HPP
+6530,Structural iron and steel workers,.91666669,LWFH,.8444429,HPP
+6540,Solar photovoltaic installers,.66666669,LWFH,.62008184,HPP
+6600,"Helpers, construction trades",.5,LWFH,.62054443,HPP
+6660,Construction and building inspectors,.41666666,LWFH,.56623513,LPP
+6700,Elevator installers and repairers,.75,LWFH,.57221806,LPP
+6710,Fence erectors,.66666669,LWFH,.68589443,HPP
+6720,Hazardous materials removal workers,.58333331,LWFH,.60811591,HPP
+6730,Highway maintenance workers,.66666669,LWFH,.62307328,HPP
+6740,Rail-track laying and maintenance equipment operators,.83333331,LWFH,.8205111,HPP
+6750,Septic tank servicers and sewer pipe cleaners,.58333331,LWFH,.72179222,HPP
+6765,"Unemployed, with no work experience in the last 5 years or earlier or never worked",.5,LWFH,.57598561,LPP
+6800,"Derrick, rotary drill, and service unit operators, oil, gas, and mining",.91666669,LWFH,.76677001,HPP
+6820,"Earth drillers, except oil and gas",.83333331,LWFH,.30597618,LPP
+6830,"Explosives workers, ordnance handling experts, and blasters",.58333331,LWFH,.59315848,HPP
+6840,Mining machine operators,.58333331,LWFH,.49290189,LPP
+6910,"Roof bolters, mining",1,LWFH,.73076671,HPP
+6920,"Roustabouts, oil and gas",.75,LWFH,.86538333,HPP
+6930,Helpers--extraction workers,.83333331,LWFH,.76367289,HPP
+6940,Other extraction workers,.58333331,LWFH,.32093358,LPP
+7000,"First-line supervisors of mechanics, installers, and repairers",.33333334,LWFH,.62606478,HPP
+7010,"Computer, automated teller, and office machine repairers",.25,LWFH,.55426919,LPP
+7020,Radio and telecommunications equipment installers and repairers,.58333331,LWFH,.55616152,LPP
+7030,Avionics technicians,.5,LWFH,.59315848,HPP
+7040,"Electric motor, power tool, and related repairers",.75,LWFH,.5213629,LPP
+7050,"Electrical and electronics installers and repairers, transportation equipment",.66666669,LWFH,.44956735,LPP
+7100,"Electrical and electronics repairers, industrial and utility",.41666666,LWFH,.64789498,HPP
+7110,"Electronic equipment installers and repairers, motor vehicles",.41666666,LWFH,.49443954,LPP
+7120,Electronic home entertainment equipment installers and repairers,.16666667,LWFH,.27905279,LPP
+7130,Security and fire alarm systems installers,.5,LWFH,.56025213,LPP
+7140,Aircraft mechanics and service technicians,.66666669,LWFH,.44657588,LPP
+7150,Automotive body and related repairers,.5,LWFH,.35683134,LPP
+7160,Automotive glass installers and repairers,.58333331,LWFH,.4017036,LPP
+7200,Automotive service technicians and mechanics,.75,LWFH,.45024326,LPP
+7210,Bus and truck mechanics and diesel engine specialists,.66666669,LWFH,.5512777,LPP
+7220,Heavy vehicle and mobile equipment service technicians and mechanics,.83333331,LWFH,.4110539,LPP
+7240,Small engine mechanics,.75,LWFH,.45568788,LPP
+7260,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",.58333331,LWFH,.56516242,LPP
+7300,Control and valve installers and repairers,.66666669,LWFH,.61244106,HPP
+7315,"Heating, air conditioning, and refrigeration mechanics and installers",.91666669,LWFH,.56582534,LPP
+7320,Home appliance repairers,.5,LWFH,.60811591,HPP
+7330,Industrial and refractory machinery mechanics,.83333331,LWFH,.67120427,HPP
+7340,"Maintenance and repair workers, general",.58333331,LWFH,.63503921,HPP
+7350,"Maintenance workers, machinery",.75,LWFH,.67991149,HPP
+7360,Millwrights,.91666669,LWFH,.72777516,HPP
+7410,Electrical power-line installers and repairers,1,LWFH,.68290293,HPP
+7420,Telecommunications line installers and repairers,.75,LWFH,.56623513,LPP
+7430,Precision instrument and equipment repairers,.25,LWFH,.42053565,LPP
+7440,Wind turbine service technicians,.91666669,LWFH,.74572402,HPP
+7510,"Coin, vending, and amusement machine servicers and repairers",0,HWFH,.50042248,LPP
+7520,Commercial divers,.75,LWFH,.7038433,HPP
+7540,Locksmiths and safe repairers,.75,LWFH,.54828626,LPP
+7550,Manufactured building and mobile home installers,.83333331,LWFH,.67991149,HPP
+7560,Riggers,.33333334,LWFH,.72478372,HPP
+7600,Signal and track switch repairers,.75,LWFH,.6739285,HPP
+7610,"Helpers--installation, maintenance, and repair workers ",.66666669,LWFH,.62307328,HPP
+7630,"Other installation, maintenance, and repair workers",.66666669,LWFH,.40792221,LPP
+7700,First-line supervisors of production and operating workers,.33333334,LWFH,.57820106,LPP
+7710,"Aircraft structure, surfaces, rigging, and systems assemblers",.41666666,LWFH,.51837146,LPP
+7720,"Electrical, electronics, and electromechanical assemblers",.33333334,LWFH,.5077225,LPP
+7730,Engine and other machine assemblers,.41666666,LWFH,.62905627,HPP
+7740,Structural metal fabricators and fitters,.5,LWFH,.5243544,LPP
+7750,Miscellaneous assemblers and fabricators,.58333331,LWFH,.59325075,HPP
+7800,Bakers,.25,LWFH,.46153325,LPP
+7810,"Butchers and other meat, poultry, and fish processing workers",.5,LWFH,.75285798,HPP
+7830,"Food and tobacco roasting, baking, and drying machine operators and tenders",.5,LWFH,.21922322,LPP
+7840,Food batchmakers,.58333331,LWFH,.47349918,LPP
+7850,Food cooking machine operators and tenders,.66666669,LWFH,.6739285,HPP
+7900,Computer control programmers and operators,.58333331,LWFH,.42957908,LPP
+7920,"Extruding and drawing machine setters, operators, and tenders, metal and plastic",.66666669,LWFH,.41965249,LPP
+7930,"Forging machine setters, operators, and tenders, metal and plastic",.66666669,LWFH,.58418399,LPP
+7940,"Rolling machine setters, operators, and tenders, metal and plastic",.75,LWFH,.50640547,LPP
+7950,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",.58333331,LWFH,.4017036,LPP
+7960,"Drilling and boring machine tool setters, operators, and tenders, metal and plastic ",.33333334,LWFH,.3747803,LPP
+8000,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",.41666666,LWFH,.46153325,LPP
+8010,"Lathe and turning machine tool setters, operators, and tenders, metal and plastic",.41666666,LWFH,.38076323,LPP
+8020,"Milling and planing machine setters, operators, and tenders, metal and plastic",.25,LWFH,.43460989,LPP
+8030,Machinists,.41666666,LWFH,.42264396,LPP
+8040,"Metal furnace operators, tenders, pourers, and casters",.66666669,LWFH,.37039268,LPP
+8060,"Model makers and patternmakers, metal and plastic",.33333334,LWFH,.62423438,HPP
+8100,"Molders and molding machine setters, operators, and tenders, metal and plastic",.66666669,LWFH,.62333298,HPP
+8120,"Multiple machine tool setters, operators, and tenders, metal and plastic ",.58333331,LWFH,.49443954,LPP
+8130,Tool and die makers,.5,LWFH,.48546511,LPP
+8140,"Welding, soldering, and brazing workers",.5,LWFH,.37599456,LPP
+8150,"Heat treating equipment setters, operators, and tenders, metal and plastic",.66666669,LWFH,.53033733,LPP
+8160,"Layout workers, metal and plastic",.66666669,LWFH,.48247361,LPP
+8200,"Plating and coating machine setters, operators, and tenders, metal and plastic",.58333331,LWFH,.51537991,LPP
+8210,"Tool grinders, filers, and sharpeners",.58333331,LWFH,.36281431,LPP
+8250,Prepress technicians and workers,0,HWFH,.47050771,LPP
+8255,Printing press operators,.5,LWFH,.31195915,LPP
+8256,Print binding and finishing workers,.58333331,LWFH,.46751621,LPP
+8300,Laundry and dry-cleaning workers,.5,LWFH,.44059283,LPP
+8310,"Pressers, textile, garment, and related materials",.41666666,LWFH,.22520617,LPP
+8320,Sewing machine operators,.16666667,HWFH,.5512777,LPP
+8330,Shoe and leather workers and repairers,.083333336,HWFH,.46452475,LPP
+8340,Shoe machine operators and tenders,.5,LWFH,.53632033,LPP
+8350,"Tailors, dressmakers, and sewers",.16666667,HWFH,.49384692,LPP
+8360,Textile bleaching and dyeing machine operators and tenders,.66666669,LWFH,.35683134,LPP
+8400,"Textile cutting machine setters, operators, and tenders",.5,LWFH,.45255882,LPP
+8410,"Textile knitting and weaving machine setters, operators, and tenders",.58333331,LWFH,.33589098,LPP
+8420,"Textile winding, twisting, and drawing out machine setters, operators, and tenders",.41666666,LWFH,.56623513,LPP
+8430,"Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",.41666666,LWFH,.46153325,LPP
+8440,Fabric and apparel patternmakers,.083333336,HWFH,.39572063,LPP
+8450,Upholsterers,.5,LWFH,.54230326,LPP
+8500,Cabinetmakers and bench carpenters,.5,LWFH,.46751621,LPP
+8510,Furniture finishers,.5,LWFH,.45555031,LPP
+8520,"Model makers and patternmakers, wood",.33333334,LWFH,.44087556,LPP
+8530,"Sawing machine setters, operators, and tenders, wood",.5,LWFH,.48845658,LPP
+8540,"Woodworking machine setters, operators, and tenders, except sawing",.5,LWFH,.41965249,LPP
+8600,"Power plant operators, distributors, and dispatchers",.33333334,LWFH,.48612896,LPP
+8610,Stationary engineers and boiler operators,.58333331,LWFH,.5273459,LPP
+8620,Water and wastewater treatment plant and system operators,.41666666,LWFH,.39871213,LPP
+8630,Miscellaneous plant and system operators,.5,LWFH,.57562345,LPP
+8640,"Chemical processing machine setters, operators, and tenders",.58333331,LWFH,.40020075,LPP
+8650,"Crushing, grinding, polishing, mixing, and blending workers",.5,LWFH,.31491953,LPP
+8710,Cutting workers,.58333331,LWFH,.4455815,LPP
+8720,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",.66666669,LWFH,.59614998,HPP
+8730,"Furnace, kiln, oven, drier, and kettle operators and tenders",.66666669,LWFH,.53931183,LPP
+8740,"Inspectors, testers, sorters, samplers, and weighers",.16666667,HWFH,.57820106,LPP
+8750,Jewelers and precious stone and metal workers,0,HWFH,.4673534,LPP
+8760,"Medical, dental, and ophthalmic laboratory technicians",.083333336,HWFH,.52336746,LPP
+8800,Packaging and filling machine operators and tenders,.41666666,LWFH,.51537991,LPP
+8810,Painting workers,.5,LWFH,.56724477,LPP
+8830,Photographic process workers and processing machine operators,.33333334,LWFH,.50341398,LPP
+8840,Semiconductor processors,.41666666,LWFH,.5213629,LPP
+8850,Adhesive bonding machine operators and tenders,.58333331,LWFH,.64102215,HPP
+8860,"Cleaning, washing, and metal pickling equipment operators and tenders",.66666669,LWFH,.19229983,LPP
+8900,Cooling and freezing equipment operators and tenders,.66666669,LWFH,.3897377,LPP
+8910,Etchers and engravers,.33333334,LWFH,.35084838,LPP
+8920,"Molders, shapers, and casters, except metal and plastic",.5,LWFH,.44797763,LPP
+8930,"Paper goods machine setters, operators, and tenders",.5,LWFH,.53033733,LPP
+8940,Tire builders,.66666669,LWFH,.48546511,LPP
+8950,Helpers--production workers,.5,LWFH,.45555031,LPP
+8965,"Production workers, all other",.83333331,LWFH,.50042248,LPP
+9000,Supervisors of transportation and material moving workers,.083333336,HWFH,.55575234,LPP
+9030,Aircraft pilots and flight engineers,.41666666,LWFH,.7879591,HPP
+9040,Air traffic controllers and airfield operations specialists,.083333336,HWFH,.7277382,HPP
+9050,Flight attendants,.58333331,LWFH,.9491449,HPP
+9110,"Ambulance drivers and attendants, except emergency medical technicians",.75,LWFH,.88632375,HPP
+9120,Bus drivers,.41666666,LWFH,.79456228,HPP
+9130,Driver/sales workers and truck drivers,.41666666,LWFH,.44761974,LPP
+9140,Taxi drivers and chauffeurs,.33333334,LWFH,.74871558,HPP
+9200,Locomotive engineers and operators,.5,LWFH,.40341407,LPP
+9230,"Railroad brake, signal, and switch operators",.5,LWFH,.29700175,LPP
+9240,Railroad conductors and yardmasters,.41666666,LWFH,.56025213,LPP
+9260,"Subway, streetcar, and other rail transportation workers",.5,LWFH,.61110741,HPP
+9300,Sailors and marine oilers,.83333331,LWFH,.62905627,HPP
+9310,Ship and boat captains and operators,.5,LWFH,.66079789,HPP
+9330,Ship engineers,.75,LWFH,.66196251,HPP
+9340,Bridge and lock tenders,.5,LWFH,.13546164,LPP
+9350,Parking lot attendants,.33333334,LWFH,.68290293,HPP
+9360,Automotive and watercraft service attendants   ,.83333331,LWFH,.5243544,LPP
+9410,Transportation inspectors,.25,LWFH,.53892261,LPP
+9415,"Transportation attendants, except flight attendants",.083333336,HWFH,.91324705,HPP
+9420,Other transportation workers ,.16666667,LWFH,.38375473,LPP
+9500,Conveyor operators and tenders,.66666669,LWFH,.24913801,LPP
+9510,Crane and tower operators,.66666669,LWFH,.38076323,LPP
+9520,"Dredge, excavating, and loading machine operators",.75,LWFH,.28973633,LPP
+9560,Hoist and winch operators,.58333331,LWFH,.49743101,LPP
+9600,Industrial truck and tractor operators,.66666669,LWFH,.21024869,LPP
+9610,Cleaners of vehicles and equipment,.41666666,LWFH,.46153325,LPP
+9620,"Laborers and freight, stock, and material movers, hand",.41666666,LWFH,.64401364,HPP
+9630,Machine feeders and offbearers,.33333334,LWFH,.36281431,LPP
+9640,"Packers and packagers, hand",.41666666,LWFH,.64401364,HPP
+9650,Pumping station operators,.58333331,LWFH,.25767609,LPP
+9720,Refuse and recyclable material collectors,.75,LWFH,.17135946,LPP
+9730,Mine shuttle car operators,.66666669,LWFH,.3867462,LPP
+9740,"Tank car, truck, and ship loaders",.75,LWFH,.54230326,LPP
