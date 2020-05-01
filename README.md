@@ -38,6 +38,10 @@ We use publicly available data from:
 2. From the terminal, navigate to the folder containing this README. 
 3. Type `make` and hit `enter` to excute the code from top to bottom. The `Makefile` will execute all the `stata` and `shell` scripts.
 
+Note: 
+- After running `make' for the first time, any subsequent changes *will not* run the whole code again from top to bottom, but only the parts of the codes that have changes and their dependencies.
+- For example, if after running `make' for the first time you wish to change sample selection in the CPS and PSID from individuals aged 25-65 to individuals aged 20-65, you could change that line of code in `/unemployment_figures/unemp_figs.do`, run `make` again and only the code from this change onwards would be ran.
+
 ### Alternative way to run code
 
 The best way to replicate the paper is to run `make`. 
